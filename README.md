@@ -151,20 +151,6 @@ ChowPal/
 
 ---
 
-## 👥 Team
-
-| Name | Contributions |
-|---|---|
-| **Shamsheer Syed Hussain** | Market research & sizing, PRD ownership, feature prioritization, product roadmap |
-| **Ritujit Chaudhury** | Team lead, customer discovery, user personas |
-| **Rhea Roy** | Original concept creator, customer segmentation, wireframes |
-| **Prakriti Mishra** | User stories, competitive analysis, presentations |
-| **Nehal Vaiti** | Metrics framework, budget estimations, risk assessment |
-
-Built as part of **Digital Product Design & Management (DPDM)** · Northeastern University · Fall 2025
-
----
-
 ## 📄 Key Deliverables at a Glance
 
 | Deliverable | What It Covers |
