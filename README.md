@@ -12,9 +12,9 @@
 
 ChowPal is a **three-sided marketplace** designed for international students who struggle to find authentic cultural ingredients and trusted recipes in their college towns. The platform connects three key user groups: **students** discovering and cooking cultural recipes, **food creators** sharing expertise and earning money, and **local ethnic grocery stores** reaching new student customers.
 
-Unlike existing grocery delivery apps or social recipe platforms, ChowPal bridges the gap between "I want to cook this" and "Where do I buy these ingredients?" — combining recipe discovery, ingredient sourcing, and local store partnerships into a single experience.
+Unlike existing grocery delivery apps or social recipe platforms, ChowPal bridges the gap between "I want to cook this" and "Where do I buy these ingredients?" - combining recipe discovery, ingredient sourcing, and local store partnerships into a single experience.
 
-This repository contains the **complete product lifecycle documentation** for ChowPal — from initial concept and customer discovery through PRD, market research, roadmap, and wireframes — developed as part of the Digital Product Design & Management (DPDM) course at Northeastern University.
+This repository contains the **complete product lifecycle documentation** for ChowPal, from initial concept and customer discovery through PRD, market research, roadmap, and wireframes developed as part of the Digital Product Design & Management (DPDM) course at Northeastern University.
 
 ---
 
