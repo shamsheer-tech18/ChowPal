@@ -1,0 +1,15 @@
+Task: Create a year-long product roadmap broken down by four quarters. Include measurable goals, key features and key metrics. 
+Use an Example below as a template. Product Roadmap page limit: two
+Assumptions: Your product will be launched in Q1 and starting in Q2, you keep adding new features and improving old ones.
+ 
+
+QUARTERLY ROADMAP:
+
+Q1 (Jan-Mar): Foundation & Launch
+Launch the MVP focusing on the core user journey. Users create accounts by linking existing delivery apps (Uber Eats/Instacart/Weee!) for seamless ordering. The recipe discovery feed showcases cultural cuisines with powerful dietary filters (halal, kosher, vegan, Jain, gluten-free) addressing international students' specific needs. Integrate with 3 delivery partners and onboard 10-15 local ethnic grocery stores to solve the "where to buy authentic ingredients" problem. Creators can upload recipe videos with simple profiles. Goal: validate product-market fit with 500 active users placing 100 orders.
+Q2 (Apr-Jun): Community Building & Trust
+Build the social layer that makes ChowPal sticky. Implement 5-star ratings and written reviews for both recipes and creators, establishing trust and quality signals. Add comment sections for recipe discussions and troubleshooting. Users can save recipes into personalized collections and share discoveries to Instagram/TikTok, driving organic growth. Enhanced creator profiles show follower counts and engagement metrics. Push notifications alert users when favorite creators post new content. Store ratings help students find reliable ethnic grocers. Target: 2,000 users with 80% recipe rating coverage, proving community engagement.
+Q3 (Jul-Sep): AI Personalization & Monetization
+Introduce intelligence and sustainability. AI meal recommendations analyze past orders and preferences to suggest relevant recipes, reducing decision fatigue. Personalized feed algorithms surface content matched to dietary restrictions and taste preferences. Launch creator monetization where creators earn revenue share from orders placed through their recipe links; ensuring long-term content creation incentive. Advanced AI dietary filtering catches cross-contamination concerns. "Cooking mode" provides hands-free, step-by-step voice guidance. Ingredient substitution suggestions help when items are unavailable. Expand to 3 new cities. Goals: 5,000 users, 40% AI-driven orders, 100 earning creators.
+Q4 (Oct-Dec): National Scale & Advanced Features
+Scale infrastructure and add premium features. Launch in 10 total cities with 100+ ethnic store partnerships. Live cooking sessions let creators host real-time interactive classes. Community challenges (like "30 days of cultural cooking") drive engagement and content creation. Store analytics dashboards show owners which recipes drive sales. Real-time grocery inventory integration prevents order failures. Multi-language support (Spanish, Mandarin, Hindi, Arabic) expands addressable market beyond English speakers. Creator collaboration tools enable recipe remixes and co-creation. Target: 15,000 users, 1,000+ creators, 5,000 monthly orders, $50K revenue; positioning for Year 2 national dominance.
